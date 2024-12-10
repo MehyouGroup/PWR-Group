@@ -1,14 +1,14 @@
   var option_PDF1 = {
   
 
-source: "TIA Portfolio.pdf", //you can change the path and the name of your .pdf file 
+source: "PWR GROUP PORTFOLIO.pdf", //you can change the path and the name of your .pdf file 
 
  
 
 
     hard: "hard", 
 
-	backgroundImage: "assets/background tia.jpg", 
+	backgroundImage: "assets/Background PWR.jpg", 
 	backgroundColor: "#fff",  
 
 	soundEnable: true, 
